@@ -1,12 +1,33 @@
-# React + Vite
+# 🛣️ Road Image Analysis (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application built with **React** and **Vite** that provides a clean, scalable architecture for analyzing road images. This project is a migrated version of the original HTML/CSS/JavaScript implementation.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ⚡ Fast development with **Vite**
+- ⚛️ Modular and reusable components with **React**
+- 🖼️ Visual road image analysis components
+- 💡 Simple, readable codebase
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- JavaScript (ES6+)
+- CSS3
+
+---
+
+## 🔄 Migration Note
+
+This project was fully migrated from a vanilla HTML/CSS/JavaScript codebase to a **React + Vite** setup for better structure, scalability, and performance.
+
+---
+
+## 🤝 Contributing
+
+Feel free to fork this repo and open a pull request. Feedback, suggestions, and improvements are welcome!
